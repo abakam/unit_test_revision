@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\abaka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\abaka\\.nuget\\packages"
+    ]
+  }
+}

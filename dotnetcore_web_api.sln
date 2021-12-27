@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetcore_web_api", "dotnetcore_web_api\dotnetcore_web_api.csproj", "{BAD50662-9756-492A-968A-EA11DE0D3A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetcore_web_api.Test", "dotnetcore_web_api.Test\dotnetcore_web_api.Test.csproj", "{2BE6800A-BB7F-446B-8754-0D3EA7F90B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD50662-9756-492A-968A-EA11DE0D3A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD50662-9756-492A-968A-EA11DE0D3A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD50662-9756-492A-968A-EA11DE0D3A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD50662-9756-492A-968A-EA11DE0D3A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE6800A-BB7F-446B-8754-0D3EA7F90B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE6800A-BB7F-446B-8754-0D3EA7F90B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE6800A-BB7F-446B-8754-0D3EA7F90B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE6800A-BB7F-446B-8754-0D3EA7F90B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65325054-0488-48C1-ABED-4277730A9625}
+	EndGlobalSection
+EndGlobal
